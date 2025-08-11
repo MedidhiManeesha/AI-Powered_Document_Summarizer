@@ -70,6 +70,3 @@ An intelligent document summarization tool built with **Azure OpenAI Service** t
   └── sample_data/            # Sample docs for testing  
 ```
 
-## Notes
-- Ensure all Azure resources are in the same region for best performance.
-- For production, secure your endpoints and use managed identities where possible.
