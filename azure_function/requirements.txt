@@ -1,7 +1,6 @@
-streamlit
+azure-functions
 azure-storage-blob
 openai
 python-docx
 PyMuPDF
 python-dotenv
-requests
